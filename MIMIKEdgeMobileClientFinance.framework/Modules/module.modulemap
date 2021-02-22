@@ -1,0 +1,11 @@
+framework module MIMIKEdgeMobileClientFinance {
+  umbrella header "MIMIKEdgeMobileClientFinance.h"
+
+  export *
+  module * { export * }
+}
+
+module MIMIKEdgeMobileClientFinance.Swift {
+    header "MIMIKEdgeMobileClientFinance-Swift.h"
+    requires objc
+}
