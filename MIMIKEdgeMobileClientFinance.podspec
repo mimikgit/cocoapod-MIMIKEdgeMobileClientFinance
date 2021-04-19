@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "MIMIKEdgeMobileClientFinance"
-  s.version      = "2.0"
+  s.version      = "2.0.1"
   s.summary      = "Enable finance services for MIMIKEdgeMobileClient."
 
   s.description  = <<-DESC
