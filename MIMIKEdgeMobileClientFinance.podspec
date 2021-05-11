@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "MIMIKEdgeMobileClientFinance"
-  s.version      = "2.0.1"
+  s.version      = "2.1"
   s.summary      = "Enable finance services for MIMIKEdgeMobileClient."
 
   s.description  = <<-DESC
@@ -24,9 +24,9 @@ Pod::Spec.new do |s|
 
   s.vendored_frameworks = "MIMIKEdgeMobileClientFinance.framework"
 
-  s.dependency 'Alamofire', '~> 5.4.1'
-  s.dependency 'SwiftyJSON', '~> 5.0.0'
+  s.dependency 'Alamofire', '~> 5.4.3'
+  s.dependency 'SwiftyJSON', '~> 5.0.1'
 
-  s.platform = 'ios', '12.0'
-  s.swift_version = '5.3'
+  s.platform = 'ios', '13.0'
+  s.swift_version = '5.4'
 end

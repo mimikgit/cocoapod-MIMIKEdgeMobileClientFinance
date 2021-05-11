@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/MIMIKEdgeMobileClientFinance-Swift.h</key>
 		<data>
-		YnHadBkLREByr0nvc66xfFNXadc=
+		MjGAnjN6BThOOyTUppaDcS+A4OE=
 		</data>
 		<key>Headers/MimikEdgeMobileClientFinance.h</key>
 		<data>
@@ -18,31 +18,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		DBjT4OlcCOWc1q0IP+H7yEtE4wc=
+		8QtmdzskZk6e//Ng+9f3jW2Z1BI=
 		</data>
 		<key>Modules/MIMIKEdgeMobileClientFinance.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		RkUljhHRr9jfflipg4DW42V8gto=
+		ClWDXbDTFUKu/Vd8f57Mt5n7c8M=
 		</data>
 		<key>Modules/MIMIKEdgeMobileClientFinance.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		RkUljhHRr9jfflipg4DW42V8gto=
+		ClWDXbDTFUKu/Vd8f57Mt5n7c8M=
 		</data>
 		<key>Modules/MIMIKEdgeMobileClientFinance.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		hhfehXn+fa9sZGRj/WlTwb5uTGU=
+		cx64Kv6IxkrRm+fkHPAdC4xQ8SE=
 		</data>
 		<key>Modules/MIMIKEdgeMobileClientFinance.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Vmc7DiGWGwblpKvyeDTgCXY0sXU=
+		g/0Fv/s8P4wyt5E9oJALeVM9m3A=
 		</data>
 		<key>Modules/MIMIKEdgeMobileClientFinance.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		hhfehXn+fa9sZGRj/WlTwb5uTGU=
+		cx64Kv6IxkrRm+fkHPAdC4xQ8SE=
 		</data>
 		<key>Modules/MIMIKEdgeMobileClientFinance.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Vmc7DiGWGwblpKvyeDTgCXY0sXU=
+		g/0Fv/s8P4wyt5E9oJALeVM9m3A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -62,7 +62,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SmypC4g15bEAItZMwROxForb6GIjZy/UxHMRRdHG/9w=
+			HWNe1vfimgpdGr+sZf4yekG7hJ4UT5K+7ilR4LFeHA0=
 			</data>
 		</dict>
 		<key>Headers/MimikEdgeMobileClientFinance.h</key>
@@ -76,42 +76,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4QVDru5Bd/XH+t6rz6yyWlt1N8FTm8fm7+jDC76i1UA=
+			bgVoi16rlT4o8SPVoO8yWMJqe5UuTBNsOsci7sTCkjY=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeMobileClientFinance.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4QVDru5Bd/XH+t6rz6yyWlt1N8FTm8fm7+jDC76i1UA=
+			bgVoi16rlT4o8SPVoO8yWMJqe5UuTBNsOsci7sTCkjY=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeMobileClientFinance.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kN2kfudiNtrUv+hzG/XBAozTXDIuVN/wniLHVzzlEnk=
+			Fg8cFva8snIBXVHQQ41x1MHlygfwQ/egeTWlISj09oM=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeMobileClientFinance.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k+ROlCCBuzsZp3qSth+iwXOALb3qXMuEIp7bHVB4gh8=
+			rehJoahdqGRmn4MktSSz71s3dT++5QWAls6P+5bzvIM=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeMobileClientFinance.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kN2kfudiNtrUv+hzG/XBAozTXDIuVN/wniLHVzzlEnk=
+			Fg8cFva8snIBXVHQQ41x1MHlygfwQ/egeTWlISj09oM=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeMobileClientFinance.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k+ROlCCBuzsZp3qSth+iwXOALb3qXMuEIp7bHVB4gh8=
+			rehJoahdqGRmn4MktSSz71s3dT++5QWAls6P+5bzvIM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
